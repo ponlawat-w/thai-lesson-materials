@@ -28,7 +28,7 @@
 <details>
   <summary>1. พี่ของเธอคือคนไหน</summary>
   <details>
-    <summary><code>phii^ kɔɔngˇ thooe khuee khon naiˇ`</code></summary>
+    <summary><code>phii^ kɔɔngˇ thooe khuee khon naiˇ</code></summary>
     Which one is your elder sibling?
   </details>
 </details>
