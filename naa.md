@@ -6,9 +6,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        rak´ → naa^ rak´
-      </code>
+      <code>rak´ → naa^ rak´</code>
     </summary>
     love → cute (lovable)
   </details>
@@ -22,9 +20,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        kliad` → naa^ kliad`
-      </code>
+      <code>kliad` → naa^ kliad`</code>
     </summary>
     hate → ugly (hateable)
   </details>
@@ -38,9 +34,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        kin → naa^ kin
-      </code>
+      <code>kin → naa^ kin</code>
     </summary>
     eat → look delicious
   </details>
@@ -54,9 +48,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        duu → naa^ duu
-      </code>
+      <code>duu → naa^ duu</code>
     </summary>
     watch → an attractive (TV program / series / movies)
   </details>
@@ -70,9 +62,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        pai → naa^ pai
-      </code>
+      <code>pai → naa^ pai</code>
     </summary>
     go → an attractive place
   </details>
@@ -86,9 +76,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        klia → naa^ klia
-      </code>
+      <code>klia → naa^ klia</code>
     </summary>
     be scared of → scary
   </details>
@@ -102,9 +90,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        buea` → naa^ buea`
-      </code>
+      <code>buea` → naa^ buea`</code>
     </summary>
     get bored → be boring
   </details>
@@ -118,9 +104,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        sonˇ cai → naa^ sonˇ cai
-      </code>
+      <code>sonˇ cai → naa^ sonˇ cai</code>
     </summary>
     get interested → be interesting
   </details>
@@ -134,9 +118,7 @@
   </summary>
   <details>
     <summary>
-      <code>
-        ca` → naa^ ca`
-      </code>
+      <code>ca` → naa^ ca`</code>
     </summary>
     will → maybe
   </details>
