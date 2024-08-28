@@ -76,7 +76,7 @@
   </summary>
   <details>
     <summary>
-      <code>klia → naa^ klia</code>
+      <code>klua → naa^ klua</code>
     </summary>
     be scared of → scary
   </details>
